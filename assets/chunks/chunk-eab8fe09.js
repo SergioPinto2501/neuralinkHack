@@ -1,0 +1,1 @@
+var e=(n=>(n.article="Article",n.announcement="Announcement",n))(e||{});function r(n){return new Date(n).toLocaleString("default",{month:"long",day:"numeric",year:"numeric"})}function t(n){return`/blog/${n}/`}export{e as B,r as f,t as u};
